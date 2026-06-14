@@ -1,0 +1,31 @@
+{
+  "match": {
+    "team_1": "India",
+    "team_2": "Australia",
+    "venue": "Melbourne Cricket Ground",
+    "status": "Live",
+    "score": {
+      "team": "India",
+      "runs": 186,
+      "wickets": 4,
+      "overs": 32.5
+    },
+    "batsmen": [
+      {
+        "name": "Virat Kohli",
+        "runs": 72,
+        "balls": 58
+      },
+      {
+        "name": "KL Rahul",
+        "runs": 35,
+        "balls": 41
+      }
+    ],
+    "bowler": {
+      "name": "Pat Cummins",
+      "overs": 6.5,
+      "wickets": 2
+    }
+  }
+}
